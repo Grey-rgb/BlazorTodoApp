@@ -1,0 +1,17 @@
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\FileData.deps.json
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\FileData.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\ref\FileData.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\FileData.pdb
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\Application.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\Domain.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\Application.pdb
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\bin\Debug\net6.0\Domain.pdb
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.csproj.AssemblyReference.cache
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.AssemblyInfoInputs.cache
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.AssemblyInfo.cs
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.csproj.CoreCompileInputs.cache
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.csproj.CopyComplete
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\ref\FileData.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\FileData\obj\Debug\net6.0\FileData.pdb

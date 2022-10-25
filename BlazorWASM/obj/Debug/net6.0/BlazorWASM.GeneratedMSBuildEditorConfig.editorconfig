@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = BlazorWASM
+build_property.RootNamespace = BlazorWASM
+build_property.ProjectDir = C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\BlazorWASM\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\BlazorWASM
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/CreateTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-t8mobcikcu
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/CreateUser.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-lmj193ty0n
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/EditTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-1kpbbovgq0
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/UIComponents/FancyCheckBox.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlDb21wb25lbnRzXEZhbmN5Q2hlY2tCb3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6xhdtlkuo4
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/UIComponents/Modal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlDb21wb25lbnRzXE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-sp2tgkowl2
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/ViewTodos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1RvZG9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-p9dzi0ojcg
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Pages/ViewUsers.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1VzZXJzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-b8bn5keb44
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jk00ermrez
+
+[C:/Users/mads8/OneDrive - ViaUC/Desktop/VIA UNI - 3. Semester/DNP1/DNP sessions/Session 4/TodoAppWasm/BlazorWASM/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-69rflur3ak

@@ -1,0 +1,15 @@
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\bin\Debug\net6.0\HttpClients.deps.json
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\bin\Debug\net6.0\HttpClients.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\bin\Debug\net6.0\ref\HttpClients.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\bin\Debug\net6.0\HttpClients.pdb
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\bin\Debug\net6.0\Domain.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\bin\Debug\net6.0\Domain.pdb
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.csproj.AssemblyReference.cache
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfoInputs.cache
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.AssemblyInfo.cs
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CoreCompileInputs.cache
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.csproj.CopyComplete
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\ref\HttpClients.dll
+C:\Users\mads8\OneDrive - ViaUC\Desktop\VIA UNI - 3. Semester\DNP1\DNP sessions\Session 4\TodoAppWasm\HttpClients\obj\Debug\net6.0\HttpClients.pdb
